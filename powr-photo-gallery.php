@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Photo Gallery
     Plugin URI: http://www.powr.io
-    Description: Create a stunning mobile-responsive photo gallery in seconds Add the widget to your theme, or create a Photo Gallery on ANY page or post by using the shortcode [powr-photo-gallery]. Then, simply visit your site and click the settings icon to customize your Photo Gallery right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Create a stunning, mobile responsive photo gallery in seconds! Add the widget to your theme, or create a Photo Gallery on ANY page or post by using the shortcode [powr-photo-gallery]. Then, simply visit your site and click the settings icon to customize your Photo Gallery right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
