@@ -22,7 +22,6 @@ First, download, install, and activate POWr Photo Gallery. Then drop the widget 
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-photo-gallery-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Add and arrange unlimited photos and images.
 * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
@@ -34,9 +33,10 @@ First, download, install, and activate POWr Photo Gallery. Then drop the widget 
 <br>
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Photo Gallery.
