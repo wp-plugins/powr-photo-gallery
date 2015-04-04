@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A Pinterest-style gallery for unlimited images!
 
 == Description ==
-A Pinterest-style gallery for unlimited images!
+ A Pinterest-style gallery for unlimited images!
 <br>
 <br>
 POWr Photo Gallery is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
