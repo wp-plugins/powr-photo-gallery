@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: art gallery, digital artist, graphic artist, fine art, jquery gallery, photo upload, file upload, image upload, photography, photojournalism, online gallery, picture gallery, portfolio, lookbook, Flickr, Picassa, Instagram, Facebook album, masonry style, Google+, Tumblr, album, best gallery, filterable gallery, fotogalerie, free gallery, shortcode, simple gallery, best gallery, wp photo gallery, media, free, responsive design, easy, personalize, eCommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, photo gallery, image gallery, pinterest gallery, photo gallery widget, image gallery widget, mobile responsive
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,6 +31,7 @@ First, download, install, and activate POWr Photo Gallery. Then drop the widget 
 * Built-in support for text in any language. 
 * Mobile responsive design looks great on any device.  
 <br>
+
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
