@@ -2,7 +2,7 @@
 ===POWr Photo Gallery===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: art gallery, digital artist, graphic artist, fine art, jquery gallery, photo upload, file upload, image upload, photography, photojournalism, online gallery, picture gallery, portfolio, lookbook, Flickr, Picassa, Instagram, Facebook album, masonry style, Google+, Tumblr, album, best gallery, filterable gallery, fotogalerie, free gallery, shortcode, simple gallery, best gallery, wp photo gallery, media, free, responsive design, easy, personalize, eCommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, photo gallery, image gallery, pinterest gallery, photo gallery widget, image gallery widget, mobile responsive
+Tags: art gallery, digital artist, graphic artist, buy, sell, payment, paypal, donation, subscription, recurring, accept payments, ecommerce, fine art, jquery gallery, photo upload, file upload, image upload, photography, photojournalism, online gallery, picture gallery, portfolio, lookbook, Flickr, Picassa, Instagram, Facebook album, masonry style, Google+, Tumblr, album, best gallery, filterable gallery, fotogalerie, free gallery, shortcode, simple gallery, best gallery, wp photo gallery, media, free, responsive design, easy, personalize, eCommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, photo gallery, image gallery, pinterest gallery, photo gallery widget, image gallery widget, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
@@ -24,7 +24,9 @@ First, download, install, and activate POWr Photo Gallery. Then drop the widget 
 <br>
 = Free Features =
 * Add and arrange photos and images in a beautiful Pinterest-style gallery.
-* Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
+* Use expert templates or customize from scratch. 
+* Adjust fonts, colors, borders, backgrounds, and more.
+* Accept payments, donations, and subscriptions through PayPal.
 * Easily customize layout, sizing, and spacing.
 * Add titles, text, videos, buttons, links, and more.
 * Built-in links to share on Facebook, Twitter, Google+, and more.
